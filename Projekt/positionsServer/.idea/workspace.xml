@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e5ce1a2-49f4-44c4-ad29-67bb1a186369" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UwgVIMDTEHuhyTkpV3zXqyZTgH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PositionServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.climb.PositionServer" />
+      <module name="positionsServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PositionServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e5ce1a2-49f4-44c4-ad29-67bb1a186369" name="Default Changelist" comment="" />
+      <created>1576273093585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576273093585</updated>
+      <workItem from="1576273098446" duration="7554000" />
+      <workItem from="1576314112351" duration="2695000" />
+      <workItem from="1576542488060" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1576276286664">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="445" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040/-1280.-86.1280.984@0.0.2560.1040" timestamp="1576276286664" />
+    <state width="596" height="179" key="GridCell.Tab.0.bottom" timestamp="1576328434021">
+      <screen x="-1280" y="-86" width="1280" height="984" />
+    </state>
+    <state width="596" height="179" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1280.-86.1280.984@-1280.-86.1280.984" timestamp="1576328434021" />
+    <state width="596" height="179" key="GridCell.Tab.0.center" timestamp="1576328434021">
+      <screen x="-1280" y="-86" width="1280" height="984" />
+    </state>
+    <state width="596" height="179" key="GridCell.Tab.0.center/0.0.2560.1040/-1280.-86.1280.984@-1280.-86.1280.984" timestamp="1576328434021" />
+    <state width="596" height="179" key="GridCell.Tab.0.left" timestamp="1576328434021">
+      <screen x="-1280" y="-86" width="1280" height="984" />
+    </state>
+    <state width="596" height="179" key="GridCell.Tab.0.left/0.0.2560.1040/-1280.-86.1280.984@-1280.-86.1280.984" timestamp="1576328434021" />
+    <state width="596" height="179" key="GridCell.Tab.0.right" timestamp="1576328434021">
+      <screen x="-1280" y="-86" width="1280" height="984" />
+    </state>
+    <state width="596" height="179" key="GridCell.Tab.0.right/0.0.2560.1040/-1280.-86.1280.984@-1280.-86.1280.984" timestamp="1576328434021" />
+    <state x="303" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576273823538">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="303" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040/-1280.-86.1280.984@0.0.2560.1040" timestamp="1576273823538" />
+  </component>
+</project>
